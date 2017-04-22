@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # JAVA_HOME must be set to the JDK or JRE installation directory
-# For example: /usr/local/jdk1.4 or /usr/local/jre1.4
+# For example: /usr/local/jdk1.8 or /usr/local/jre1.8
 if [ -z "\$JAVA_HOME" ]
 then
     echo "The JAVA_HOME environment variable is not set!"
